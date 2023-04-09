@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Anchimek/react-portfolio/static/js/main.7d164232.js",
-    "index.html": "/Anchimek/react-portfolio/index.html",
-    "main.7d164232.js.map": "/Anchimek/react-portfolio/static/js/main.7d164232.js.map"
+    "main.js": "/react-portfolio/static/js/main.b0660903.js",
+    "index.html": "/react-portfolio/index.html",
+    "main.b0660903.js.map": "/react-portfolio/static/js/main.b0660903.js.map"
   },
   "entrypoints": [
-    "static/js/main.7d164232.js"
+    "static/js/main.b0660903.js"
   ]
 }
