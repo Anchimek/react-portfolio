@@ -3,7 +3,7 @@ import ReactPlayer from 'react-player'
 import { StyledFirstSection } from './styles/FirstSection.styled'
 
 export default function FirstSection() {
-    const [hackerImage, setHackerImage] = useState('/images/hacker.png')
+    const [hackerImage, setHackerImage] = useState('../../public/images/hacker.png')
 
     useEffect( () => {
         const hackerContainer = document.querySelector('.hacker')
@@ -12,8 +12,8 @@ export default function FirstSection() {
         const photoChanging = setInterval( () => {
             setHackerImage( prevImage => {
                 return prevImage === '/images/hacker.png' 
-                       ? '/images/hackerwmask.png' 
-                       : '/images/hacker.png'
+                       ? '../../public/images/hackerwmask.png' 
+                       : '../../public/images/hacker.png'
             })
         }, 3000)
         return () => clearInterval(photoChanging)
