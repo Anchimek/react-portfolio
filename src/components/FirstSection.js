@@ -3,7 +3,7 @@ import ReactPlayer from 'react-player'
 import { StyledFirstSection } from './styles/FirstSection.styled'
 
 export default function FirstSection() {
-    const [hackerImage, setHackerImage] = useState('../../public/images/hacker.png')
+    const [hackerImage, setHackerImage] = useState('images/hacker.png')
 
     useEffect( () => {
         const hackerContainer = document.querySelector('.hacker')
