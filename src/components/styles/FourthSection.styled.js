@@ -7,7 +7,7 @@ export const StyledFourthSection = styled.section`
         justify-content: flex-start;
         align-items: center;
         width: 100%;
-        background: url('/images/starsbg.jpg') no-repeat fixed center;
+        background: url('images/starsbg.jpg') no-repeat fixed center;
         background-size: cover;
 
         padding: 2em 0;
