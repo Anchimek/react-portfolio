@@ -13,7 +13,7 @@ export const StyledContainer = styled.div`
             width: 100%;
             height: 20px;
     
-            background: url('/images/starsbg.jpg') no-repeat fixed center;
+            background: url('../../../public/images/starsbg.jpg') no-repeat fixed center;
             background-size: cover;
             z-index: 1001;
     
