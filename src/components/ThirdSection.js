@@ -9,18 +9,18 @@ export default function ThirdSection() {
                 <Particle />
                 <h2 className='third-section--heading'>Tech stack</h2>
                 <div className='third-section--logos'>
-                    <img src='../../public/images/js-logo.png' alt='' />
-                    <img src='../../public/images/react-logo.png' alt='' />
-                    <img src='../../public/images/sass-logo.png' alt='' />
-                    <img src='../../public/images/css-logo.png' alt='' />
-                    <img src='../../public/images/html-logo.png' alt='' />
-                    <img src='../../public/images/vsc-logo.png' alt='' />
-                    <img src='../../public/images/figma-logo.png' alt='' />
-                    <img src='../../public/images/ts-logo.png' alt='' />
-                    <img src='../../public/images/gh-logo.png' alt='' />
-                    <img src='../../public/images/redux-logo.png' alt='' />
-                    <img src='../../public/images/adobexd-logo.png' alt='' />
-                    <img src='../../public/images/rwd-logo.png' alt='' />
+                    <img src='images/js-logo.png' alt='' />
+                    <img src='images/react-logo.png' alt='' />
+                    <img src='images/sass-logo.png' alt='' />
+                    <img src='images/css-logo.png' alt='' />
+                    <img src='images/html-logo.png' alt='' />
+                    <img src='images/vsc-logo.png' alt='' />
+                    <img src='images/figma-logo.png' alt='' />
+                    <img src='images/ts-logo.png' alt='' />
+                    <img src='images/gh-logo.png' alt='' />
+                    <img src='images/redux-logo.png' alt='' />
+                    <img src='images/adobexd-logo.png' alt='' />
+                    <img src='images/rwd-logo.png' alt='' />
                 </div>
             </div>
         </StyledThirdSection>

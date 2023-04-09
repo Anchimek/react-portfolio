@@ -12,8 +12,8 @@ export default function FirstSection() {
         const photoChanging = setInterval( () => {
             setHackerImage( prevImage => {
                 return prevImage === '/images/hacker.png' 
-                       ? '../../public/images/hackerwmask.png' 
-                       : '../../public/images/hacker.png'
+                       ? 'images/hackerwmask.png' 
+                       : 'images/hacker.png'
             })
         }, 3000)
         return () => clearInterval(photoChanging)

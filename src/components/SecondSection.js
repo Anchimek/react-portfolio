@@ -14,7 +14,7 @@ export default function SecondSection() {
                         market
                     </h3>
                     <h4>ReactJS</h4>
-                    <img src='../../public/images/crypto.png' alt='home page of crypto market site' />
+                    <img src='images/crypto.png' alt='home page of crypto market site' />
                     <p>
                         Simple React App which allows to check current prices of crypto.
                         You can choose currency, switch between light/dark mode and check 
@@ -38,7 +38,7 @@ export default function SecondSection() {
                         game
                     </h3>
                     <h4>JavaScript</h4>
-                    <img src='../../public/images/pacman.png' alt='home page of check knowledge site' />
+                    <img src='images/pacman.png' alt='home page of check knowledge site' />
                     <p>
                         Project made just with pure JavaScript. I've used ES6 methods.
                         Template was create with grid and flex-box in preprocessor SaSS.
@@ -60,7 +60,7 @@ export default function SecondSection() {
                         site
                     </h3>
                     <h4>JavaScript</h4>
-                    <img src='../../public/images/commercial.png' alt='home page of ewaminczewska.pl site' />
+                    <img src='images/commercial.png' alt='home page of ewaminczewska.pl site' />
                     <p>
                         This website was made for makeup artist. Layout I've prepared in Figma,
                         also I've used ES6 methods. Template was create with grid and flex-box in preprocessor SaSS.
@@ -82,7 +82,7 @@ export default function SecondSection() {
                         knowledge
                     </h3>
                     <h4>ReactJS</h4>
-                    <img src='../../public/images/knowledge.png' alt='home page of check knowledge site' />
+                    <img src='images/knowledge.png' alt='home page of check knowledge site' />
                     <p>
                         Project made in React with Open Trivia DB, which allows you to test your knowledge.
                         You can answer the questions in quiz, check which answers are correct or 
@@ -105,7 +105,7 @@ export default function SecondSection() {
                         game
                     </h3>
                     <h4>JavaScript</h4>
-                    <img src='../../public/images/snake.png' alt='home page of check knowledge site' />
+                    <img src='images/snake.png' alt='home page of check knowledge site' />
                     <p>
                         Project made just with pure JavaScript. I've used ES6 methods.
                         Template was create with grid and flex-box in preprocessor SaSS.
