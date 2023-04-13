@@ -3,15 +3,13 @@ import styled from 'styled-components'
 export const StyledThirdSection = styled.section`
     .third-section--content {
         position: relative;
-        width: 100%;
-        height: 100vh;
-        background: transparent;
         padding: 2em 0;
         #tsparticles {
             position: absolute;
             top: 0;
             left: 0;
-            z-index: -1;
+            width: 100%;
+            height: 100%;
         }
         .third-section--heading {
             margin: 0;

@@ -18,7 +18,10 @@ function Particle() {
             loaded={particlesLoaded}
 
             options={
-                { background: {
+                { fullScreen: {
+                  enable: false
+                },
+                  background: {
                     color: {
                         value: "#000",
                     },
@@ -60,7 +63,7 @@ function Particle() {
                       }
                     },
                     "size": {
-                      "value": 3,
+                      "value": 2,
                       "random": true,
                       "anim": {
                         "enable": false,

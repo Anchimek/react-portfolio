@@ -35,7 +35,7 @@ export const StyledContainer = styled.div`
                 animation: moveText linear 25s forwards infinite;  
                 @keyframes moveText {
                     from { transform: translateX(100%); }
-                    to { transform: translateX(-100%); }
+                    to { transform: translateX(-140%); }
                 }
                 span, a {
                     letter-spacing: .1em;

@@ -36,19 +36,29 @@ export const StyledSecondSection = styled.section`
                -moz-box-shadow: 0px 1px 36px -14px rgba(255,236,204,0.9);
             }
             p {
-                font-family: 'Stick No Bills', sans-serif;
-                font-style: normal;
-                font-size: .75rem;
-                line-height: 1.75em;
+                display: flex;
+                flex-direction: column;
+                padding: 1em 2.5em; 
     
-                padding: 1em 4em;
-                text-align: justify;
-                span {
+                span.text {
+                    font-family: 'Stick No Bills', sans-serif;
+                    font-style: normal;
+                    font-size: .75rem;
+
+                    text-align: justify;
+                    line-height: 1.75em;
+                }
+                span.brightBlue {
                     font-family: 'Stick No Bills', sans-serif;
                     font-size: .75rem;
                     font-weight: 400;
     
                     color: var(--brightBlue);
+                }
+                a {
+                    padding-top: .5em;
+                    font-size: .75rem;
+                    text-align: center;
                 }
             }
         }

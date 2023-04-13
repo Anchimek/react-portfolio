@@ -15,6 +15,9 @@ const GlobalStyles = createGlobalStyle`
             font-size: 1.15em;            
             margin: 0;
             color: var(--beige);
+
+            background: url('images/starsbg.jpg') no-repeat fixed center;
+            background-size: cover;
         }
         div {
             -webkit-box-shadow: 0px 6px 72px -32px rgba(255,236,204,0.44);
