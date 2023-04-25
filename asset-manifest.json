@@ -1,10 +1,37 @@
 {
   "files": {
-    "main.js": "/react-portfolio/static/js/main.6063321c.js",
+    "main.js": "/react-portfolio/static/js/main.c0735d2f.js",
+    "static/media/lightBg.jpg": "/react-portfolio/static/media/lightBg.83438d53d2657f51ec3f.jpg",
+    "static/media/starsbg.jpg": "/react-portfolio/static/media/starsbg.bbc67de2c4540def90c5.jpg",
+    "static/media/lightBg2.jpg": "/react-portfolio/static/media/lightBg2.5bde9e00921b25f820ac.jpg",
+    "static/media/snake.png": "/react-portfolio/static/media/snake.55ac1a42d8a44cde2f72.png",
+    "static/media/insta-logo.png": "/react-portfolio/static/media/insta-logo.47c5d71c30787db4f3d8.png",
+    "static/media/hackerBlue.png": "/react-portfolio/static/media/hackerBlue.fb3faa44b2e12169a6f7.png",
+    "static/media/hackerPurple.png": "/react-portfolio/static/media/hackerPurple.8d89c3f57d3f9c7a090c.png",
+    "static/media/hacker.png": "/react-portfolio/static/media/hacker.8696c738260846a730d6.png",
+    "static/media/commercial.png": "/react-portfolio/static/media/commercial.baa4f775abeb1b99f056.png",
+    "static/media/gh-logo.png": "/react-portfolio/static/media/gh-logo.85f4856cf3821d890b58.png",
+    "static/media/react-logo.png": "/react-portfolio/static/media/react-logo.875e58f5899513a5ae08.png",
+    "static/media/vsc-logo.png": "/react-portfolio/static/media/vsc-logo.a61dc62c499ed3aeefdc.png",
+    "static/media/adobexd-logo.png": "/react-portfolio/static/media/adobexd-logo.285dcd09ff21b60355f8.png",
+    "static/media/pacman.png": "/react-portfolio/static/media/pacman.5a037f22aa24a7b00d5c.png",
+    "static/media/sass-logo.png": "/react-portfolio/static/media/sass-logo.d144d8653b2799baffe4.png",
+    "static/media/crypto.png": "/react-portfolio/static/media/crypto.dcdf906e68b50900b1e0.png",
+    "static/media/knowledge.png": "/react-portfolio/static/media/knowledge.031e588cce663a44d9bc.png",
+    "static/media/linkedin-logo.png": "/react-portfolio/static/media/linkedin-logo.8b89ce01929a419c5625.png",
+    "static/media/rwd-logo.png": "/react-portfolio/static/media/rwd-logo.c135e8873be47017ccc0.png",
+    "static/media/ts-logo.png": "/react-portfolio/static/media/ts-logo.8e08c2165d60d7ca62a9.png",
+    "static/media/figma-logo.png": "/react-portfolio/static/media/figma-logo.46400ab8543f71a3650b.png",
+    "static/media/codesymbol.png": "/react-portfolio/static/media/codesymbol.bab6f185bec5bc86e105.png",
+    "static/media/codesymbolPurple.png": "/react-portfolio/static/media/codesymbolPurple.a557b4fe02b4e9cdb158.png",
+    "static/media/js-logo.png": "/react-portfolio/static/media/js-logo.6e2121011de202539281.png",
+    "static/media/html-logo.png": "/react-portfolio/static/media/html-logo.cb4b852446f5e437cb63.png",
+    "static/media/css-logo.png": "/react-portfolio/static/media/css-logo.213ba7b607add054237c.png",
+    "static/media/redux-logo.png": "/react-portfolio/static/media/redux-logo.b3b939c66aecf7d53967.png",
     "index.html": "/react-portfolio/index.html",
-    "main.6063321c.js.map": "/react-portfolio/static/js/main.6063321c.js.map"
+    "main.c0735d2f.js.map": "/react-portfolio/static/js/main.c0735d2f.js.map"
   },
   "entrypoints": [
-    "static/js/main.6063321c.js"
+    "static/js/main.c0735d2f.js"
   ]
 }
