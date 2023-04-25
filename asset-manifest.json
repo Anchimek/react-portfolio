@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/react-portfolio/static/js/main.e0bb2870.js",
+    "main.js": "/react-portfolio/static/js/main.b01cd7b3.js",
     "static/media/lightBg.jpg": "/react-portfolio/static/media/lightBg.83438d53d2657f51ec3f.jpg",
     "static/media/starsbg.jpg": "/react-portfolio/static/media/starsbg.bbc67de2c4540def90c5.jpg",
     "static/media/lightBg2.jpg": "/react-portfolio/static/media/lightBg2.5bde9e00921b25f820ac.jpg",
@@ -29,9 +29,9 @@
     "static/media/css-logo.png": "/react-portfolio/static/media/css-logo.213ba7b607add054237c.png",
     "static/media/redux-logo.png": "/react-portfolio/static/media/redux-logo.b3b939c66aecf7d53967.png",
     "index.html": "/react-portfolio/index.html",
-    "main.e0bb2870.js.map": "/react-portfolio/static/js/main.e0bb2870.js.map"
+    "main.b01cd7b3.js.map": "/react-portfolio/static/js/main.b01cd7b3.js.map"
   },
   "entrypoints": [
-    "static/js/main.e0bb2870.js"
+    "static/js/main.b01cd7b3.js"
   ]
 }
